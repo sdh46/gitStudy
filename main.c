@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main(){
-    printf("");
-    printf("");
+    int a = 0;
+    int b = 5;
+    printf(a);
 }
